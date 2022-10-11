@@ -26,7 +26,7 @@ namespace WebsiteKafka.Controllers
             var data = new SendMessageDto
             {
                 Id = 10,
-                Name = "Tạo hóa đơn 10",
+                Name = "Tạo hóa đơn 10 123",
                 Host = "localhost:toan",
                 Topic = "message.apache.toan"
             };

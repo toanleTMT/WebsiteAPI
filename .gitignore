@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Application/bin/Debug/net6.0
+/Domain/bin/Debug/net6.0
+/Domain/obj
+/kafkaConsumer/bin/Debug/net6.0
+/kafkaConsumer/obj
+/Services/bin/Debug/net6.0
+/Services/obj
+/WebsiteKafka/bin/Debug/net6.0
+/WebsiteKafka/obj
